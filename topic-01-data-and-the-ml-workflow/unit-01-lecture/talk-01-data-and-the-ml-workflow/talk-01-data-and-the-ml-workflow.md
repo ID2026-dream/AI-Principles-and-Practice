@@ -6,5 +6,4 @@ icon:
 
 # Week 01 Lecture Slides
 
-Data Analysis and the ML Workflow. Eight sections, from the workflow as a loop
-through to governance and documentation.
+Data Analysis and the ML Workflow
