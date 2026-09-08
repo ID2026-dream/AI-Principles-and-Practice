@@ -17,7 +17,7 @@ Topic Highlights
 2. **Data types and encoding**
 3. **Summary statistics**
 4. **Distributions and visualisation**
-5. **Correlation — and its traps**
+5. **Correlation and its traps**
 6. **Data processing**
 7. **Leakage-safe pipelines**
 8. **Governance, documentation & the lab**
