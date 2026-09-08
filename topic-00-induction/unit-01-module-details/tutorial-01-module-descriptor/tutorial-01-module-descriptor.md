@@ -3,6 +3,7 @@ order: 1
 icon:
   type: vscode-icons:file-type-pdf2
 ---
+COMP-0987
 
 # Module Descriptor
 
