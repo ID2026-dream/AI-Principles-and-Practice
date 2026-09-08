@@ -1,0 +1,15 @@
+# Only used when auth: 1 is set in properties.yaml.
+# Educators get the expanded panel with content locking and analytics.
+
+educators:
+  - github-id-of-lecturer-1
+  - github-id-of-lecturer-2
+
+# Uncomment to restrict access to listed accounts only.
+# whitelist:
+#   - github-id-of-lecturer-1
+#   - student-github-id
+
+# students:
+#   - name: Student Name
+#     github: student-github-id

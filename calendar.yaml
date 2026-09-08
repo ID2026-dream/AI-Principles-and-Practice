@@ -1,0 +1,83 @@
+# Adjust the dates to the real academic calendar before publishing.
+# Insert reading weeks with `week: ~` where the timetable has them.
+
+title: Semester 1
+year: 2026
+
+weeks:
+  - date: 2026-09-07
+    week: 0
+    topic: "Induction"
+    assessment: ~
+
+  - date: 2026-09-14
+    week: 1
+    topic: "Data Analysis and the ML Workflow"
+    assessment: ~
+
+  - date: 2026-09-21
+    week: 2
+    topic: "Supervised Learning: Regression, Classification and Practical Applications"
+    assessment: ~
+
+  - date: 2026-09-28
+    week: 3
+    topic: "Ethics, Bias and Fairness"
+    assessment: ~
+
+  - date: 2026-10-05
+    week: 4
+    topic: "AI Safety, Governance and Explainability (XAI)"
+    assessment: ~
+
+  - date: 2026-10-12
+    week: 5
+    topic: "Unsupervised Learning and the Idea of a Representation"
+    assessment: ~
+
+  - date: 2026-10-19
+    week: 6
+    topic: "Quiz and Reflection Milestone"
+    assessment:
+      name: Quiz
+      due: 2026-10-19
+      percentage: 15
+      submission: In-class
+
+  - date: 2026-10-26
+    week: 7
+    topic: "Neural Networks and Deep Learning: Introduction"
+    assessment:
+      name: Applied assignment
+      due: 2026-10-30
+      percentage: 20
+      submission: Online (Moodle)
+
+  - date: 2026-11-02
+    week: 8
+    topic: "The Mathematics That Matters"
+    assessment: ~
+
+  - date: 2026-11-09
+    week: 9
+    topic: "Transfer Learning, Foundation Models and Data Augmentation"
+    assessment: ~
+
+  - date: 2026-11-16
+    week: 10
+    topic: "Transformers and Attention"
+    assessment: ~
+
+  - date: 2026-11-23
+    week: 11
+    topic: "Science-Inspired Learning: Diffusion, Neural ODEs and Symmetry"
+    assessment: ~
+
+  - date: 2026-11-30
+    week: 12
+    topic: "Final Project Delivery Milestone"
+    assessment:
+      name: Final project and live defence
+      due: 2026-11-30
+      percentage: 40
+      submission: In-person demonstration and viva

@@ -1,0 +1,40 @@
+# Tutors course properties.
+# Reference: https://tutors.dev/note/tutors-reference-manual/unit-1-getting-started/note-d-properties
+
+credits: Department of Computing and Mathematics, SETU
+
+icon:
+  type: fluent:brain-circuit-20-filled
+  color: "2D7FF9"
+
+# Authentication is off while the course is being built. Set to 1 to require a
+# GitHub sign-in, which also switches on TutorsTime, TutorsLive and the
+# educator panel described in enrollment.yaml.
+auth: 0
+
+# Prepends 01, 02, 03 ... to every lab step in the course.
+labStepsAutoNumber: true
+
+# Progressive release. Content locking from the educator panel is the current
+# way to do this; ignore/ignorepin still works and needs no sign-in.
+# ignorepin: 0000
+# ignore:
+#   - topic-07-neural-networks
+#   - topic-08-mathematics-that-matters
+
+# Companion services. Uncomment and point at the real ones.
+# moodle: https://moodle.setu.ie/course/view.php?id=
+# teams: https://teams.microsoft.com/
+# youtube: https://www.youtube.com/playlist?list=
+
+# Talks are landscape 16:9 by default, which suits slides. The reference
+# booklets are portrait A4 and are published as tutorials instead.
+defaultPdfReader: adobe
+
+# Publishes /llm/<course> with a markdown export and a zip of every talk,
+# which is what you feed to NotebookLM or similar. 2 shows the link, 1 keeps
+# the page but hides the link, 0 disables it.
+llm: 2
+
+# Add once the repo is public so every page gets an "edit this page" button.
+# github: https://github.com/<org>/<repo>/blob/main
