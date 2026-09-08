@@ -37,4 +37,4 @@ defaultPdfReader: adobe
 llm: 2
 
 # Add once the repo is public so every page gets an "edit this page" button.
-# github: https://github.com/<org>/<repo>/blob/main
+# github: https://github.com/SETU-AIML-2026/AI-Principles-and-Practice/blob/main
