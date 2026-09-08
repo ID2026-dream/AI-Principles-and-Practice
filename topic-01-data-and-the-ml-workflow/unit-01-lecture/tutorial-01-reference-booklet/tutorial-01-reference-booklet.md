@@ -7,6 +7,4 @@ icon:
 
 # Week 01 Reference Booklet
 
-The lecture in prose, with worked examples: the eight workflow stages, data
-types and encoding, summary statistics, distributions, correlation, data
-processing, leakage-safe pipelines, and data governance.
+The lecture in prose
