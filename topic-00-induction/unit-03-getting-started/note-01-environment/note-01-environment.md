@@ -7,7 +7,7 @@ icon:
 
 # Before the Week 1 Lab
 
-[[toc]]
+Pre-work before Week 1
 
 Have this working before the first lab. Nothing here is assessed, but the Week
 1 lab assumes it is done.
