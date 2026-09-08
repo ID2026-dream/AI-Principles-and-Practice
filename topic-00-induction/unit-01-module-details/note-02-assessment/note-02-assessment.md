@@ -7,7 +7,7 @@ icon:
 
 # Assessment
 
-[[toc]]
+Break down of Assessments
 
 | Component | Weight | LOs | Timing |
 |---|---|---|---|
