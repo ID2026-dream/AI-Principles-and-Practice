@@ -9,7 +9,7 @@ icon:
 
 **Phase I** · **LO2, LO5** · Indrakshi
 
-[[toc]]
+Topic Highlights
 
 ## Roadmap
 
