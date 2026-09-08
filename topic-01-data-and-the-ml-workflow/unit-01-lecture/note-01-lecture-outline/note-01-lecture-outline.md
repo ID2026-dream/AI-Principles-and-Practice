@@ -7,7 +7,7 @@ icon:
 
 # Lecture Outline
 
-**Phase I** · **LO2, LO5** 
+Phase I - LO2, LO5 
 
 Topic Highlights
 
