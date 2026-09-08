@@ -7,7 +7,7 @@ icon:
 
 # Lecture Outline
 
-**Phase I** · **LO2, LO5** · Indrakshi
+**Phase I** · **LO2, LO5** 
 
 Topic Highlights
 
