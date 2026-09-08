@@ -7,4 +7,4 @@ icon:
 
 # Week 01 Reference Booklet
 
-The lecture in prose
+Reference Booklet
