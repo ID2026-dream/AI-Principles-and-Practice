@@ -7,10 +7,7 @@ icon:
 
 # Learning Outcomes
 
-[[toc]]
-
-Five outcomes, each anchored in specific weeks. Nothing here is assessed in the
-abstract — every outcome has weeks that teach it and an assessment that tests it.
+Five outcomes, each anchored in specific weeks. 
 
 | LO | Description | Primary weeks |
 |---|---|---|
