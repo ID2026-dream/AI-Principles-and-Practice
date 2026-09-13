@@ -7,4 +7,4 @@ icon:
 
 # Week 01 Submission Kit
 
-`SUBMISSION.md` to fill in, and the script that turns it into the one file you upload
+`SUBMISSION.md` to fill in
