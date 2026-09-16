@@ -6,4 +6,4 @@ icon:
 
 # 02: Supervised Learning
 
-Regression, classification and evaluation that doesn't flatter
+Regression, classification and evaluation 
