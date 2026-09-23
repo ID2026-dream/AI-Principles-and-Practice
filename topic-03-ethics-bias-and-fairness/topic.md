@@ -6,4 +6,4 @@ icon:
 
 # 03: Ethics, Bias and Fairness
 
-Fairness metrics, the impossibility result and the cost of mitigation
+Fairness metrics, the impossibility result 
