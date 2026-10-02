@@ -6,4 +6,4 @@ icon:
 
 # 06: Quiz and Reflection
 
-In-class quiz on Weeks 1 to 5, and how to prepare for it
+Preparatory Material for Quiz
