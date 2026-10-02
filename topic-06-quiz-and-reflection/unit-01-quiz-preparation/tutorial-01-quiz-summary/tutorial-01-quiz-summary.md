@@ -7,4 +7,4 @@ icon:
 
 # Weeks 1 to 5 Quiz Summary
 
-Summary, Practice questions and worked answers.
+Summary, Practice questions
