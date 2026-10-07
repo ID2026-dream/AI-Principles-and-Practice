@@ -7,4 +7,4 @@ icon:
 
 # Week 05 Reference Booklet
 
-Finding structure without labels, and the geometry that carries meaning
+Finding structure without labels
