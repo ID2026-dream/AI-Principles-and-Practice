@@ -6,4 +6,4 @@ icon:
 
 # Week 05 Lecture Slides
 
-Unsupervised Learning and the Idea of a Representation
+Unsupervised Learning, Idea of a Representation
