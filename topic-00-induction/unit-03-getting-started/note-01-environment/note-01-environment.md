@@ -1,8 +1,5 @@
 ---
 order: 1
-icon:
-  type: fluent:desktop-24-filled
-  color: "#2D7FF9"
 ---
 
 # Before the Week 1 Lab

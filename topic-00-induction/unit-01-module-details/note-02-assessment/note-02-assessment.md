@@ -1,8 +1,5 @@
 ---
 order: 3
-icon:
-  type: fluent:clipboard-checkmark-24-filled
-  color: "#2D7FF9"
 ---
 
 # Assessment

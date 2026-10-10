@@ -1,9 +1,3 @@
----
-icon:
-  type: fluent:compass-northwest-24-filled
-  color: "#2D7FF9"
----
-
 # 00: Induction
 
 Start here. What the module is, how the twelve weeks are shaped, what is

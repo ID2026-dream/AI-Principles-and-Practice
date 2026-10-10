@@ -1,8 +1,5 @@
 ---
 order: 2
-icon:
-  type: fluent:target-arrow-24-filled
-  color: "#2D7FF9"
 ---
 
 # Learning Outcomes
